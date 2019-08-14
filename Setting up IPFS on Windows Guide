@@ -21,3 +21,29 @@ Open up the cmd or command prompt
 //type IPFS 
 //you should see a bunch of descriptions and commands
 //Your in the green now.
+
+
+Setting up the Private Network 
+
+// First you need your Swarm key
+// Start by downloading git 
+// after git is downloaded and installed open CMD
+//  run the following commands :
+  // git clone https://github.com/Kubuxu/go-ipfs-swarm-key-gen
+    // cd go-ipfs-swarm-key-gen/
+      // go run ipfs-swarm-key-gen/main.go
+// copy the 3-4 lines that come after and place them in a txt file. Save the text file as swarm.key
+// open Notepad++, then open the swarm.key file.
+// at the bottom right corner you should see the word "Windows"
+// Right click it and pick "UNIX"
+// Make sure you save the file as "Swarm.key"
+// Copy the file and go to "C:\Users\YOUR_USERNAME\.ipfs", and paste the file 
+
+Run IPFS and set up your private IPFS network
+
+//Open the command prompt 
+// Run IPFS daemon
+// Your should see in the lines "Swarm is limited to private network of peers with the swarm key
+Swarm key fingerprint: xxxxxxxxxxxxxxxx"
+//Your still in the green so far.
+
