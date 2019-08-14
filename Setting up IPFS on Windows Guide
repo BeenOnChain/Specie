@@ -1,0 +1,23 @@
+Installing from a Prebuilt Package
+//First, download the right version of IPFS for your Windows platform:
+
+https://dist.ipfs.io/#go-ipfs
+
+// Once downloaded, find the location of the downloaded ZIP and unzip it.
+// Go into the go-ipfs folder and right click on the ipfs.exe
+// find the "location: " and copy the directory 
+
+Setting Path
+
+// on the windows search bar, type env
+// click edit system env variables
+//click environmental variables
+// Find the "PATH" in the upper column
+//Double Click and add the copied directory from the downloaded IPFS go-ipfs folder.
+// the directory should look something like "C:\Users\YOUR_USERNAME\Downloads\go-ipfs_v0.4.22_windows-amd64\go-ipfs
+
+Open up the cmd or command prompt
+
+//type IPFS 
+//you should see a bunch of descriptions and commands
+//Your in the green now.
