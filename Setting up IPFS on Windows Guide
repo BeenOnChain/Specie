@@ -18,7 +18,15 @@ Setting Path
 
 Open up the cmd or command prompt
 
-//type IPFS 
+//type IPFS init
+//copy the details that should look like:
+
+initializing IPFS node at /home/$USER/.ipfs
+generating 2048-bit RSA keypair...done
+peer identity: QmS4ustL54uo8FzR9455qaxZwuMiUhyvMcX9Ba8nUH4uVv
+
+// copy to a txt file and keep a hold of this on your desktop
+// type IPFS
 //you should see a bunch of descriptions and commands
 //Your in the green now.
 
