@@ -1,2 +1,2 @@
 # Specie
-Specie is a decentralized open commodity trading platform built on IPFS.
+Specie is a decentralized bullion-coin mintertrading platform built on IPFS.
