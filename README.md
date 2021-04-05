@@ -1,2 +1,2 @@
 # Specie
-Specie is a decentralized bullion-coin minter.
+Specie is a decentralized timed swap-coin minter.
